@@ -1,0 +1,58 @@
+<resources>
+    <string-array name="Departure">
+        <item>Departure</item>
+        <item>Wangsimini station exit 5</item>
+        <item >Majang station exit 1</item>
+        <item>Sindap station exit 1</item>
+        <item>Hospital of Hanyang university</item>
+        <item>The front gate of Hanyang university</item>
+    </string-array>
+    <string-array name="Time">
+        <item>Time</item>
+        <item>NOW</item>
+    </string-array>
+    <string-array name="Destination">
+        <item>Destination</item>
+        <item>Hanyang university</item>
+    </string-array>
+    <string-array name="MON">
+        <item>MON</item>
+        <item>09:00</item>
+        <item>10:30</item>
+        <item>13:00</item>
+        <item>14:30</item>
+        <item>16:00</item>
+    </string-array>
+    <string-array name="TUE">
+        <item>TUE</item>
+        <item>09:00</item>
+        <item>10:30</item>
+        <item>13:00</item>
+        <item>14:30</item>
+        <item>16:00</item>
+    </string-array>
+    <string-array name="WED">
+        <item>WED</item>
+        <item>09:00</item>
+        <item>10:30</item>
+        <item>13:00</item>
+        <item>14:30</item>
+        <item>16:00</item>
+    </string-array>
+    <string-array name="THU">
+        <item>THU</item>
+        <item>09:00</item>
+        <item>10:30</item>
+        <item>13:00</item>
+        <item>14:30</item>
+        <item>16:00</item>
+    </string-array>
+    <string-array name="FRI">
+        <item>FRI</item>
+        <item>09:00</item>
+        <item>10:30</item>
+        <item>13:00</item>
+        <item>14:30</item>
+        <item>16:00</item>
+    </string-array>
+</resources>
